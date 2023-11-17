@@ -2,6 +2,10 @@
 
 Users can upload new items, modify existing entries, delete some of the tasks, as well as export tasks to Excel.
 
+# Screenshot
+
+![Screenshot (10528)](https://github.com/manish9427/vivatech-task-manager/assets/107556633/eecf50e1-cf6f-499e-bf87-3d576931be7f)
+
 # Features:
 
 ## Task List:
